@@ -5,8 +5,7 @@ I’m a **Google & IBM Certified Cybersecurity Analyst** with hands-on experienc
 
 💻 Currently building projects like:  
 - **Python-based Port Monitoring Tool** – Logs real-time status changes of common network ports.  
-- Penetration testing scripts and automation for SOC operations.  
-
+- Penetration testing scripts and automation for SOC operations.
 
 ### 🔹 Skills
 - **Programming & Scripting:** Python, Bash  
@@ -21,7 +20,16 @@ I’m a **Google & IBM Certified Cybersecurity Analyst** with hands-on experienc
 - **IBM Cybersecurity Analyst Professional Certificate** – Case studies & capstone projects  
 - **Digital Forensics & Incident Response**  
 
+## 🛡️ Cybersecurity Focus
 
+I apply concepts from the Google Cybersecurity, Google Cloud Security, and IBM Cybersecurity Analyst programs through hands-on projects, including:
+
+- Ethical vulnerability scanning using Nmap & NSE scripts
+- CVE identification and risk classification
+- Exposure and availability risk analysis for internet-facing services
+- Clear documentation and reporting of security findings
+
+My projects emphasize defensive security, ethical boundaries, and real-world analyst workflows.
 
 ### 🔹 Projects
 | Project | Description | Technologies |

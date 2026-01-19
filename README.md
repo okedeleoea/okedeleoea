@@ -34,5 +34,7 @@ Check out my [GitHub repositories](https://github.com/okedeleoea?tab=repositorie
 
 
 ### 🔹 Connect with Me
-- LinkedIn: [Olanrewaju Emmanuel Okedele](https://www.linkedin.com/in/okedeleoea)  
+- LinkedIn: [Olanrewaju Emmanuel Okedele](https://www.linkedin.com/in/okedeleoea)
+- X: [Olanrewaju Emmanuel Okedele]
+  '@okedeleoea'
 - Email: `okedeleoea@gmail.com`  

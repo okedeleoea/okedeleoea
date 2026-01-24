@@ -22,7 +22,7 @@ I’m a **Google & IBM Certified Cybersecurity Analyst** with hands-on experienc
 
 ## 🛡️ Cybersecurity Focus
 
-I apply concepts from the Google Cybersecurity, Google Cloud Security, and IBM Cybersecurity Analyst programs through hands-on projects, including:
+I apply concepts from the Google Cybersecurity, Google Cloud Cybersecurity Specialization, and IBM Cybersecurity Analyst programs through hands-on projects, including:
 
 - Ethical vulnerability scanning using Nmap & NSE scripts
 - CVE identification and risk classification

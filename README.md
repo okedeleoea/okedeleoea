@@ -45,6 +45,5 @@ Certifications on Credly - https://www.credly.com/users/olanrewaju-okedele
 
 ### 🔹 Connect with Me
 - LinkedIn: [Olanrewaju Emmanuel Okedele](https://www.linkedin.com/in/okedeleoea)
-- X: [Olanrewaju Emmanuel Okedele]
-  '@okedeleoea'
+- X: https://x.com/okedeleoea
 - Email: `okedeleoea@gmail.com`  

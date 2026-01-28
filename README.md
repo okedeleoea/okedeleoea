@@ -38,7 +38,9 @@ My projects emphasize defensive security, ethical boundaries, and real-world ana
 | Pen-testing Scripts | Automates basic penetration tests | Python, Nmap, Linux |
 | Hash Cracking Simulator | SHA256 password hashing & cracking | Python, Hashcat, John the Ripper |
 
-Check out my [GitHub repositories](https://github.com/okedeleoea?tab=repositories) for more projects. [Google Skills: https://www.skills.google/public_profiles/ca1d4bd4-ca6f-4645-bea5-9c2629da495e]
+Check out my [GitHub repositories](https://github.com/okedeleoea?tab=repositories) for more projects. 
+[Google Skills: https://www.skills.google/public_profiles/ca1d4bd4-ca6f-4645-bea5-9c2629da495e]
+Certifications on Credly - https://www.credly.com/users/olanrewaju-okedele
 
 
 ### 🔹 Connect with Me

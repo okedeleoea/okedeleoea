@@ -1,6 +1,5 @@
 👋 Hi, I’m Olanrewaju Emmanuel Okedele
-Cybersecurity Analyst | SOC & Detection Engineering | Cloud Security (GCP)
-📍 Ontario-focused | Open to Junior SOC / Cybersecurity Analyst roles
+Cybersecurity Analyst | SOC & Detection Engineering | Cloud Security (GCP)| Open to Junior SOC / Cybersecurity Analyst roles
 🛡️ About Me
 I’m a cybersecurity professional with a strong foundation in cloud-native security operations, SIEM detection engineering, and incident analysis.
 My focus is on practical, hands-on learning—turning real attack simulations into detections, alerts, and incident reports that mirror how modern SOC teams operate, especially in Google Security Operations (Chronicle) and cloud environments.
@@ -18,7 +17,8 @@ Google Cloud Cybersecurity Certificate
 IBM Cybersecurity Breaches Case Studies & Capstone Project
 Google Security Operations – Fundamentals (Chronicle platform)
 Google Security Operations – Deep Dive (advanced detections & tuning)
-Google Modern Security Operations (Autonomic SecOps, CD/CR) (ongoing)
+Google Modern Security Operations (Autonomic SecOps, CD/CR)
+Google Security Operations Engineer (ongoing)
 Microsoft Python Programming for Development (in progress)
 🚀 Featured Projects
 Quality over quantity. Each project is SOC-style, documented, and defensible.

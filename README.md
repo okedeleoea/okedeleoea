@@ -28,6 +28,7 @@ Simulated internal reconnaissance and credential misuse
 Validated firewall controls blocking lateral movement (SMB)
 Built Elastic KQL detections
 Wrote a full SOC incident report
+“See soc-detection-engineering-lifecycle-lab for an end-to-end SOC detection workflow.”
 Skills: Detection engineering, log analysis, incident documentation
 📊 SIEM Detection Engineering Lab (in progress)
 Focus: SIEM-first alerts (no exploitation noise)
